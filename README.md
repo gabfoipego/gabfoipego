@@ -44,8 +44,8 @@ security    = Nmap · Metasploit
     <br />
     <a href="https://linkedin.com/in/gabrielvmaia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://orcid.org/0009-0003-7438-1440"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-    <br /><br />
     <a href="https://tryhackme.com/p/gabrielvmaia"><img src="./assets/badge.png" /></a>
+    <br /><br />
   </td>
 </tr>
 </table>
