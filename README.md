@@ -39,7 +39,8 @@ databases   = PostgreSQL · MySQL
 monitoring  = Prometheus · Grafana
 systems     = Ubuntu · Debian · GCC · CMake
 security    = Nmap · Metasploit
-              Burp Suite · IDA Pro and a bunch of other tools, if you want me to show them, you could hire me ;)
+              Burp Suite · IDA Pro and a bunch of other tools,
+              if you want me to show them, you could hire me ;)
 ```
 </td>
 <td valign="top" width="50%">
