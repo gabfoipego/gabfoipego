@@ -13,7 +13,6 @@ philosophy  = Understand systems at the
 
 [current_focus]
 primary     = Cybersecurity & Pentesting
-secondary   = Systems Architecture
 learning    = Reverse Engineering & cybersec, ISOs and more
 
 [languages]
@@ -33,12 +32,7 @@ databases   = PostgreSQL · MySQL
 monitoring  = Prometheus · Grafana
 systems     = Ubuntu · Debian · GCC · CMake
 security    = Nmap · Metasploit
-              Burp Suite · IDA Pro
-other       = NPM · Discord.js
-
-[releases]
-apps        = EduQR · IssueBoard 
-
+              Burp Suite · IDA Pro and a bunch of other tools, if you want me to show them, you could hire me ;)
 ```
 </td>
 <td valign="top" width="50%">
